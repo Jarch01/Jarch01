@@ -2,10 +2,6 @@
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jarch01&label=Profile%20views&color=0e75b6&style=flat" alt="jarch01" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jarch01" alt="jarch01" /></a> </p>
-
 - 🔭 I’m currently working on [Think Quiz](https://github.com/Jarch01/ThinkQuiz)
 
 - 🌱 I’m currently learning **Flutter, JavaScript**
